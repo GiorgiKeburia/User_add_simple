@@ -1,0 +1,23 @@
+form {
+	padding: 1rem 4rem;
+	display: flex;
+	flex-direction: column;
+}
+h3 {
+	color: white;
+	font-size: 1.4rem;
+}
+label {
+	color: rgb(198, 198, 199);
+	text-align: left;
+	font-size: 0.8rem;
+}
+input {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	background: inherit;
+	outline: none;
+	border: none;
+	color: white;
+	border-bottom: 1px solid rgb(85, 85, 85);
+}

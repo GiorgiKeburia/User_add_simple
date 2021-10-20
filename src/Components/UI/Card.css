@@ -1,0 +1,22 @@
+/* div {
+	margin-top: 2rem;
+	padding: 1rem 4rem;
+	background: rgb(49, 49, 49);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	border-radius: 10px;
+	height: 20rem;
+	box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px, rgba(0, 0, 0, 0.1) 0px 2px 4px 0px, rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+} */
+
+.div {
+	padding: 0;
+	background: rgb(49, 49, 49);
+	border-radius: 10px;
+	margin-bottom: 2rem;
+	/* margin-top: 2rem; */
+	height: 20rem;
+	box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px, rgba(0, 0, 0, 0.1) 0px 2px 4px 0px, rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+}
